@@ -1,0 +1,6 @@
+<Limit GET>
+order deny,allow
+allow from 129.237.0.0/16
+allow from 10.0.0.0/8
+deny from all
+</Limit>
